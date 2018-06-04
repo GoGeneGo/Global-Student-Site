@@ -4,34 +4,24 @@
     font-size:48px;
     padding-left: 30px;
 
-
-
-
 }
 
+/*
 .majorSection{
-
     color: #999;
+}*/
 
-
-
-}
-
-div.mainBottom {
-
+div.mainButton {
     padding: 40px;
     background-color:#5e60626b;
     width:100%;
     height:100%;
     text-decoration: none;
 
-
-
-
 }
 
-div.mainBottom:hover{
-    background-color:#5e6062ff;
+div.mainButton:hover{
+    /*background-color:#5e6062ff;*/
 }
 
 
@@ -57,10 +47,11 @@ a {
 
 #stories{
     margin:20px;
-    padding: 40px;
+   padding:40px;
     float: left;
     width:30%;
-    height: 400px;
+    /*
+    height: 400px; */
     box-sizing: border-box;
     background-image:url("resources/Rice Global Mockup Resources/16.09 - Kaysie spotlight photo.jpg");
     background-size: contain;
@@ -73,7 +64,7 @@ a {
     padding: 40px;
     float: left;
     width:30%;
-    height: 400px;
+   /* height: 400px;*/
     box-sizing: border-box;
     background-image:url("resources/Rice Global Mockup Resources/3053_dsc058182p.jpg");
     background-size: contain;
@@ -87,7 +78,7 @@ a {
     padding: 40px;
     float: left;
     width:30%;
-    height: 400px;
+  /*  height: 400px;*/
     box-sizing: border-box;
     background-image:url("resources/Rice Global Mockup Resources/greece-destination-thumb.jpg");
     background-size: contain;
